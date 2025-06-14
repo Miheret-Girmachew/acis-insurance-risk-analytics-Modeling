@@ -1,3 +1,4 @@
 venv
 MachineLearningRating_v3.txt
-data
+/data/*
+!/data/*.dvc
